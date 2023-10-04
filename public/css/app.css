@@ -1,13 +1,8 @@
 body {
     /*background-image: url(public/images/cp_gs_bg_web.jpg);*/
-    margin: 0px;
-    height: 600px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./public/images/cp_gs_bg_web.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    box-shadow: 1px 1px .5px 0px;
+
+    background-image: url(./public/images/cp_gs_bg_web.jpg);
+
 }
 
 .password {
